@@ -22,7 +22,7 @@ Frontend Developer & Mobile Developer(React Native)
 
 
 Information:
-React (React.js / React Native) Developer |Software Developer | C# .Net Core Developer |  Javascript Developer 
+React (React.js / React Native) Developer  | C# .Net Core Developer |  Javascript Developer |Software Developer
 
 Flexible hardworking punctual, accomplished at team work and good at human relations.  I'm currently developing react.js and react native applications. I'm open minded and problem solver. I like to learn new things and improve my skills. It is available in many projects of my own as a freelancer.
 Developer and systems designing several custom e-commerce websites via JavaScript/React, .NET MVC frameworks, HTML5, CSS3/SASS,  MsSQL.
@@ -36,8 +36,6 @@ Get more insights 💡
 
 Learn through code snippets 🔋
 
-
-Connect with me:
 
 
 Languages and Tools:
