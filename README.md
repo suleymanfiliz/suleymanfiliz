@@ -10,10 +10,6 @@ Frontend Developer & Mobile Developer(React Native)
 
 🔮 I develop github project with React Javascript & React Native.
 
-💬 Ask me about React JS,React Native,Javascript
-
-🤭 I love Web 3.0 Technology.
-
 📫 How to reach me :
    Email    : slymnflz19@gmail.com
 
