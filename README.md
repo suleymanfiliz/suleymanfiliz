@@ -13,9 +13,9 @@ Frontend Developer & Mobile Developer(React Native)
 📫 How to reach me :
    Email    : slymnflz19@gmail.com
 
-   LinkedIn : https://www.linkedin.com/in/s%C3%BCleyman-filiz-176990259/
-
-
+   LinkedIn : 
+   
+              [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s%C3%BCleyman-filiz-176990259/) 
 
 Information:
 React (React.js / React Native) Developer  | C# .Net Core Developer |  Javascript Developer |Software Developer
