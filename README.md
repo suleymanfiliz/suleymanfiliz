@@ -15,7 +15,7 @@ Frontend Developer & Mobile Developer(React Native)
 
    LinkedIn : 
    
-              [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s%C3%BCleyman-filiz-176990259/) 
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s%C3%BCleyman-filiz-176990259/) 
 
 Information:
 React (React.js / React Native) Developer  | C# .Net Core Developer |  Javascript Developer |Software Developer
