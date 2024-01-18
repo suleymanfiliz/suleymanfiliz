@@ -24,7 +24,7 @@ Flexible hardworking punctual, accomplished at team work and good at human relat
 Developer and systems designing several custom e-commerce websites via JavaScript/React, .NET MVC frameworks, HTML5, CSS3/SASS,  MsSQL.
 
 
-Javascript Lovers ❤️
+
 
 Tips and tricks 📒
 
