@@ -24,15 +24,5 @@ Flexible hardworking punctual, accomplished at team work and good at human relat
 Developer and systems designing several custom e-commerce websites via JavaScript/React, .NET MVC frameworks, HTML5, CSS3/SASS,  MsSQL.
 
 
-
-
-Tips and tricks 📒
-
-Get more insights 💡
-
-Learn through code snippets 🔋
-
-
-
 Languages and Tools:
 android  bootstrap csharp  dotnetfigma firebase flutter  heroku html5 java javascript linux mongodb mssql mysql  nodejs  postman react reactnative redux sass tailwind typescript  
